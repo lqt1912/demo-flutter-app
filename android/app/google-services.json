@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921198445128",
+    "project_id": "angular-demo-8117d",
+    "storage_bucket": "angular-demo-8117d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921198445128:android:49e72c61248c0df8d0ce7d",
+        "android_client_info": {
+          "package_name": "co.lqt1912.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921198445128-j7gpmhragvoa127cqjsgh47uqr8oj1ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHr7zYsp58Fi4bjWOyijwhL_ESLYO2wuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921198445128-j7gpmhragvoa127cqjsgh47uqr8oj1ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
